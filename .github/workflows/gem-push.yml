@@ -1,7 +1,7 @@
 name: Ruby Gem
 
-on:
-  push:
+on:version-control
+  push:Actions'push'
     branches: [ master ]
   pull_request:
     branches: [ master ]
